@@ -16,6 +16,7 @@ Cada caso de teste utiliza três linhas. A primeira linha de um caso de teste co
 Para cada caso de teste imprima uma linha contendo um único número inteiro, que indica o número mínimo de ultrapassagens necessárias para se chegar do grid de largada ao grid de chegada.
 
 #### EXEMPLO ENTRADA (entrada pelo terminal):
+```
 5
 1 2 3 4 5
 3 1 2 5 4
@@ -25,8 +26,10 @@ Para cada caso de teste imprima uma linha contendo um único número inteiro, qu
 5
 3 1 2 5 4
 5 3 2 1 4
-
+```
 #### EXEMPLO SAÍDA (saída pelo terminal):
+```
 3
 3
 4
+```
